@@ -1,0 +1,11 @@
+env_var,expand_path
+environ_path,
+environ_temp,\temp
+environ_systemroot,\Windows
+environ_windir,\Windows
+environ_programfiles,\Program Files
+environ_programfilesx86,\Program Files (X86)
+environ_programfiles_win10,\Programmes
+environ_systemdrive,"C:"
+environ_allusersprofile,\Users\Default
+environ_allusersappdata,\Users\Default\AppData

@@ -1,0 +1,13 @@
+2017-01-20 17:57:09,117 - DEBUG - name : WindowsAMCacheHveFile
+2017-01-20 18:52:20,513 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-20 18:52:20,513 - DEBUG - Artifact OS : Windows
+2017-01-20 18:52:20,514 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-20 18:53:06,751 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-20 18:53:06,751 - DEBUG - Artifact OS : Windows
+2017-01-20 18:53:06,751 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-20 18:54:11,677 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-20 18:54:11,677 - DEBUG - Artifact OS : Windows
+2017-01-20 18:54:11,677 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-20 19:13:28,111 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-20 19:13:28,111 - DEBUG - Artifact OS : Windows
+2017-01-20 19:13:28,111 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
