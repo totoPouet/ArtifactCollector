@@ -16,8 +16,8 @@ from artifacts import reader
 #from artifacts import errors
 
 # Init.
-img_mount_point_path = "/home/osboxes/ArtifactCollector/tests"
-definitions_file_path = "~/artifacts"
+img_mount_point_path = "/home/osboxes/ArtifactCollector/test_data"
+definitions_file_path = "~/artifacts/test_data"
 copy_dest = "./Collected_artifact"
 log_lvl = 10 # DEBUG
 """
@@ -97,7 +97,7 @@ def CopyArtifact(src_path,dest_dir):
 def CollectFilesArtifact():
 
     artifact_reader = reader.YamlArtifactsReader()
-    def_file = os.path.join('.', 'definitions/windows.yaml')
+    def_file = os.path.join('.', 'test_data/definitions/windows.yaml')
 
     with open(def_file, 'r') as file_object:
         artifact_definitions = list(artifact_reader.ReadFileObject(file_object))

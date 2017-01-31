@@ -11,3 +11,985 @@
 2017-01-20 19:13:28,111 - DEBUG - Artifact Name : WindowsAMCacheHveFile
 2017-01-20 19:13:28,111 - DEBUG - Artifact OS : Windows
 2017-01-20 19:13:28,111 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:22:19,928 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:22:19,928 - DEBUG - Artifact OS : Windows
+2017-01-23 13:22:19,928 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:28:01,441 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:28:01,441 - DEBUG - Artifact OS : Windows
+2017-01-23 13:28:01,441 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:34:04,743 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:34:04,744 - DEBUG - Artifact OS : Windows
+2017-01-23 13:34:04,744 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:34:30,553 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:34:30,554 - DEBUG - Artifact OS : Windows
+2017-01-23 13:34:30,554 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:35:24,508 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:35:24,508 - DEBUG - Artifact OS : Windows
+2017-01-23 13:35:24,508 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:36:22,653 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:36:22,654 - DEBUG - Artifact OS : Windows
+2017-01-23 13:36:22,654 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:38:19,901 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:38:19,901 - DEBUG - Artifact OS : Windows
+2017-01-23 13:38:19,901 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:46:25,310 - DEBUG - Artifact Name : WindowsAMCacheHveFile
+2017-01-23 13:46:25,311 - DEBUG - Artifact OS : Windows
+2017-01-23 13:46:25,311 - DEBUG - Artifact path : %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:47:10,415 - DEBUG - Artifact Name: WindowsAMCacheHveFile
+2017-01-23 13:47:10,415 - DEBUG - Artifact OS: Windows
+2017-01-23 13:47:10,416 - DEBUG - Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 13:47:10,416 - DEBUG - Expand path: \Windows
+DEBUG:root:Artifact Name: WindowsAMCacheHveFile
+DEBUG:root:Artifact OS: Windows
+DEBUG:root:Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+DEBUG:root:Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+DEBUG:root:Artifact Name: WindowsAMCacheHveFile
+DEBUG:root:Artifact OS: Windows
+DEBUG:root:Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+DEBUG:root:Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+DEBUG:root:Artifact Name: WindowsAMCacheHveFile
+DEBUG:root:Artifact OS: Windows
+DEBUG:root:Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+DEBUG:root:Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+DEBUG:root:Artifact Name: WindowsAMCacheHveFile
+DEBUG:root:Artifact OS: Windows
+DEBUG:root:Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+DEBUG:root:Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:25:53;DEBUG;Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:25:53;DEBUG;Artifact OS: Windows
+2017-01-23 14:25:53;DEBUG;Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 14:25:53;DEBUG;Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:27:08-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:27:08-INFO-Artifact OS: Windows
+2017-01-23 14:27:08-INFO-Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 14:27:08-INFO-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:30:53-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:30:53-DEBUG-Artifact OS: Windows
+2017-01-23 14:30:53-DEBUG-Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 14:30:53-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:31:05-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:31:05-DEBUG-Artifact OS: Windows
+2017-01-23 14:31:05-DEBUG-Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 14:31:05-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:34:41-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:34:41-DEBUG-Artifact OS: Windows
+2017-01-23 14:34:41-DEBUG-Artifact path: %%environ_systemroot%%\AppCompat\Programs\Amcache.hve
+2017-01-23 14:34:41-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:34:41-DEBUG-Unix path: /Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 14:36:51-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:36:51-DEBUG-Artifact OS: Windows
+2017-01-23 14:36:51-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:36:51-DEBUG-Unix path: /Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 14:39:59-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:39:59-DEBUG-Artifact OS: Windows
+2017-01-23 14:39:59-DEBUG-to expand: environ_systemroot artifact path\AppCompat\Programs\Amcache.hve
+2017-01-23 14:39:59-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:39:59-DEBUG-Unix path: /Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 14:40:54-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:40:54-DEBUG-Artifact OS: Windows
+2017-01-23 14:40:54-DEBUG-To expand: "environ_systemroot" Artifact path\AppCompat\Programs\Amcache.hve
+2017-01-23 14:40:54-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:40:54-DEBUG-Unix path: /Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 14:41:34-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:41:34-DEBUG-Artifact OS: Windows
+2017-01-23 14:41:34-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-23 14:41:34-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:41:34-DEBUG-Unix path: /Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 14:41:51-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:41:51-DEBUG-Artifact OS: Windows
+2017-01-23 14:41:51-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-23 14:41:51-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 14:41:51-DEBUG-Unix path: /Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 14:47:27-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 14:47:27-DEBUG-Artifact OS: Windows
+2017-01-23 14:47:27-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-23 14:47:27-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 15:19:17-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:19:17-DEBUG-Artifact OS: Windows
+2017-01-23 15:19:17-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-23 15:19:17-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 15:20:07-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:20:07-DEBUG-Artifact OS: Windows
+2017-01-23 15:20:07-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:20:07-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:23:28-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:23:28-DEBUG-Artifact OS: Windows
+2017-01-23 15:23:28-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:23:28-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:24:16-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:24:16-DEBUG-Artifact OS: Windows
+2017-01-23 15:24:16-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:24:16-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:24:56-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:24:56-DEBUG-Artifact OS: Windows
+2017-01-23 15:24:56-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:24:56-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:26:57-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:26:57-DEBUG-Artifact OS: Windows
+2017-01-23 15:26:57-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:26:57-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:37:12-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:37:12-DEBUG-Artifact OS: Windows
+2017-01-23 15:37:12-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:37:12-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:38:04-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:38:04-DEBUG-Artifact OS: Windows
+2017-01-23 15:38:04-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:38:04-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 15:38:37-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:38:37-DEBUG-Artifact OS: Windows
+2017-01-23 15:38:37-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hvefff
+2017-01-23 15:38:37-DEBUG-Expanded path: \Windows\Amcache.hvefff
+2017-01-23 15:40:29-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:40:29-DEBUG-Artifact OS: Windows
+2017-01-23 15:40:29-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hvefff
+2017-01-23 15:40:29-DEBUG-Expanded path: \Windows\Amcache.hvefff
+2017-01-23 15:49:43-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:49:43-DEBUG-Artifact OS: Windows
+2017-01-23 15:49:43-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hvefff
+2017-01-23 15:49:43-DEBUG-Expanded path: \Windows\Amcache.hvefff
+2017-01-23 15:50:35-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:50:35-DEBUG-Artifact OS: Windows
+2017-01-23 15:50:35-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hvefff
+2017-01-23 15:50:35-DEBUG-Expanded path: \Windows\Amcache.hvefff
+2017-01-23 15:54:36-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:54:36-DEBUG-Artifact OS: Windows
+2017-01-23 15:54:36-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hvefff
+2017-01-23 15:54:36-DEBUG-Expanded path: \Windows\Amcache.hvefff
+2017-01-23 15:58:02-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:58:02-DEBUG-Artifact OS: Windows
+2017-01-23 15:58:02-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hvefff
+2017-01-23 15:58:02-DEBUG-Expanded path: \Windows\Amcache.hvefff
+2017-01-23 15:58:25-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 15:58:25-DEBUG-Artifact OS: Windows
+2017-01-23 15:58:25-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 15:58:25-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:02:16-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:02:16-DEBUG-Artifact OS: Windows
+2017-01-23 16:02:16-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:02:16-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:03:05-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:03:05-DEBUG-Artifact OS: Windows
+2017-01-23 16:03:05-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:03:05-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:03:05-INFO-Artifact found: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:04:01-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:04:01-DEBUG-Artifact OS: Windows
+2017-01-23 16:04:01-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:04:01-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:04:01-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:15:02-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:15:02-DEBUG-Artifact OS: Windows
+2017-01-23 16:15:02-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:15:02-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:15:02-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:15:46-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:15:46-DEBUG-Artifact OS: Windows
+2017-01-23 16:15:46-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:15:46-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:15:46-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:16:53-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:16:53-DEBUG-Artifact OS: Windows
+2017-01-23 16:16:53-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:16:53-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:16:53-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:17:33-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:17:33-DEBUG-Artifact OS: Windows
+2017-01-23 16:17:33-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:17:33-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:17:33-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:18:55-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:18:55-DEBUG-Artifact OS: Windows
+2017-01-23 16:18:55-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:18:55-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:18:55-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:23:55-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:23:55-DEBUG-Artifact OS: Windows
+2017-01-23 16:23:55-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:23:55-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:23:55-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:24:50-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:24:50-DEBUG-Artifact OS: Windows
+2017-01-23 16:24:50-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:24:50-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:24:50-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:25:12-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:25:12-DEBUG-Artifact OS: Windows
+2017-01-23 16:25:12-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:25:12-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:25:12-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:25:28-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:25:28-DEBUG-Artifact OS: Windows
+2017-01-23 16:25:28-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:25:28-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:25:28-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:25:28-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:27:28-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:27:28-DEBUG-Artifact OS: Windows
+2017-01-23 16:27:28-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:27:28-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:27:28-INFO-File exist
+2017-01-23 16:27:28-INFO-Download of : /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:27:28-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:27:28-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:33:02-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:33:26-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:33:26-DEBUG-Artifact OS: Windows
+2017-01-23 16:33:26-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:33:26-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:33:26-INFO-File exist
+2017-01-23 16:33:26-INFO-Start download of: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:33:26-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:33:26-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:33:26-INFO-End of download: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:34:15-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:34:15-DEBUG-Artifact OS: Windows
+2017-01-23 16:34:15-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:34:15-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:34:15-DEBUG-File exist
+2017-01-23 16:34:15-INFO-Start download of: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:34:15-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:34:15-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:34:15-INFO-End of download: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:34:51-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:34:51-DEBUG-Artifact OS: Windows
+2017-01-23 16:34:51-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:34:51-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:34:51-DEBUG-File exist
+2017-01-23 16:34:51-INFO-Start download of: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:34:51-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:34:51-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:34:51-INFO-End of download: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:35:33-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:35:33-DEBUG-Artifact OS: Windows
+2017-01-23 16:35:33-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:35:33-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:35:33-DEBUG-File exist
+2017-01-23 16:35:33-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:35:33-INFO-Start download of: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:35:33-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:35:33-INFO-End of download: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:36:45-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:36:45-DEBUG-Artifact OS: Windows
+2017-01-23 16:36:45-DEBUG-To expand: "environ_systemroot" Path: \Amcache.hve
+2017-01-23 16:36:45-DEBUG-Expanded path: \Windows\Amcache.hve
+2017-01-23 16:36:45-DEBUG-File exist
+2017-01-23 16:36:45-INFO-Artifact present: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:36:45-INFO-Start download of: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:36:45-INFO-Artifact download success: ./Collected_artifact/Amcache.hve
+2017-01-23 16:36:45-INFO-End of download: /home/osboxes/ArtifactCollector/tests/Windows/Amcache.hve
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsActiveDesktop
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAlternateShell
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAppCertDLLs
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAppCompatCache
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAppInitDLLs
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsApplicationRegistration
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WinAppXRT
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \system32\WinAppXRT.dll
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\system32\WinAppXRT.dll
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests\Windows\system32\WinAppXRT.dll
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAutoexecBat
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemdrive" Path: \autoexec.bat
+2017-01-23 16:38:47-DEBUG-Expanded path: C:\autoexec.bat
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/testsC:/autoexec.bat
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAutomaticDebugging
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAutomaticDebuggingExclusionList
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAutorun
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemdrive" Path: \autorun.inf
+2017-01-23 16:38:47-DEBUG-Expanded path: C:\autorun.inf
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/testsC:/autorun.inf
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsAvailableTimeZones
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsBITSQueueManagerDatabases
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_allusersprofile" Path: \Microsoft\Network\Downloader\qmgr*.dat
+2017-01-23 16:38:47-DEBUG-Expanded path: \Users\Default\Microsoft\Network\Downloader\qmgr*.dat
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests\Users\Default\Microsoft\Network\Downloader\qmgr*.dat
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsBootVerificationProgram
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCodePage
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsComputerName
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCommandProcessorAutoRun
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCOMInprocHandlers
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCOMInprocServers
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCOMLocalServers
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsConfigSys
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemdrive" Path: \config.sys
+2017-01-23 16:38:47-DEBUG-Expanded path: C:\config.sys
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/testsC:/config.sys
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsControlPanelFilePaths
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCredentialProviderFilters
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCredentialProviders
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsCommonFilePlacementAttacks
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_programfiles" Path: \Internet Explorer\sxs.dll
+2017-01-23 16:38:47-DEBUG-Expanded path: \Program Files\Internet Explorer\sxs.dll
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Program Files/Internet Explorer/sxs.dll
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsDebugger
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsDomainName
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentUserLoginScripts
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableAllUsersAppData
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableAllUsersProfile
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableAppxProcess
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariablePath
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableProgramFiles
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableProgramFilesX86
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableSystemDrive
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableSystemRoot
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableTemp
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEnvironmentVariableWinDir
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEventLogs
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEventLogApplication
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\AppEvent.evt
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\AppEvent.evt
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/AppEvent.evt
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEventLogSecurity
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\SecEvent.evt
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\SecEvent.evt
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/SecEvent.evt
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsEventLogSystem
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\SysEvent.evt
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\SysEvent.evt
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/SysEvent.evt
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsXMLEventLogApplication
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Application.evtx
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Application.evtx
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/Application.evtx
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsXMLEventLogSecurity
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Security.evtx
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Security.evtx
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/Security.evtx
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsXMLEventLogSystem
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\System.evtx
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\System.evtx
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/System.evtx
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsXMLEventLogTerminalServices
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExcludeFromKnownDLLs
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerAppKey
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerAutoplayHandlers
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerContextMenuHandlers
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerNamespaceCommonPlaces
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerNamespaceControlPanel
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerNamespaceDesktop
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerNamespaceMyComputer
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerNamespaceNetworkNeighborhood
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsExplorerNamespacePrintersAndFaxes
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsFileTypeAutorunAssociations
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsGroupPolicyScripts
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \GroupPolicy\User\Scripts\scripts.ini
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\GroupPolicy\User\Scripts\scripts.ini
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/GroupPolicy/User/Scripts/scripts.ini
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsHostsFiles
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\Drivers\etc\Lmhosts
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\Drivers\etc\Lmhosts
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/Drivers/etc/Lmhosts
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsHotkeyReplacement
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "environ_systemroot" Path: \System32\magnifier.exe
+2017-01-23 16:38:47-DEBUG-Expanded path: \Windows\System32\magnifier.exe
+2017-01-23 16:38:47-DEBUG-File not exist in current image !
+2017-01-23 16:38:47-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/magnifier.exe
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsInstallationDateTime
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsLogoffScript
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsLogonScript
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsLSAAuthenticationPackages
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsLSANotificationPackages
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsLSASecurityPackages
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-INFO-Artifact Name: WindowsMetroApplicationCache
+2017-01-23 16:38:47-DEBUG-Artifact OS: Windows
+2017-01-23 16:38:47-DEBUG-To expand: "users.homedir" Path: \AppData\Local\Packages\*\AC\INetCache
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsActiveDesktop
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAlternateShell
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/AppCompat/Programs/Amcache.hve
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAppCertDLLs
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAppCompatCache
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAppInitDLLs
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsApplicationRegistration
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WinAppXRT
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \system32\WinAppXRT.dll
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\system32\WinAppXRT.dll
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests\Windows\system32\WinAppXRT.dll
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAutoexecBat
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemdrive" Path: \autoexec.bat
+2017-01-23 16:40:24-DEBUG-Expanded path: C:\autoexec.bat
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/testsC:/autoexec.bat
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAutomaticDebugging
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAutomaticDebuggingExclusionList
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAutorun
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemdrive" Path: \autorun.inf
+2017-01-23 16:40:24-DEBUG-Expanded path: C:\autorun.inf
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/testsC:/autorun.inf
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsAvailableTimeZones
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsBITSQueueManagerDatabases
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_allusersprofile" Path: \Microsoft\Network\Downloader\qmgr*.dat
+2017-01-23 16:40:24-DEBUG-Expanded path: \Users\Default\Microsoft\Network\Downloader\qmgr*.dat
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests\Users\Default\Microsoft\Network\Downloader\qmgr*.dat
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsBootVerificationProgram
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCodePage
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsComputerName
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCommandProcessorAutoRun
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCOMInprocHandlers
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCOMInprocServers
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCOMLocalServers
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsConfigSys
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemdrive" Path: \config.sys
+2017-01-23 16:40:24-DEBUG-Expanded path: C:\config.sys
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/testsC:/config.sys
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsControlPanelFilePaths
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCredentialProviderFilters
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCredentialProviders
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsCommonFilePlacementAttacks
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_programfiles" Path: \Internet Explorer\sxs.dll
+2017-01-23 16:40:24-DEBUG-Expanded path: \Program Files\Internet Explorer\sxs.dll
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Program Files/Internet Explorer/sxs.dll
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsDebugger
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsDomainName
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentUserLoginScripts
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableAllUsersAppData
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableAllUsersProfile
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableAppxProcess
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariablePath
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableProgramFiles
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableProgramFilesX86
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableSystemDrive
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableSystemRoot
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableTemp
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEnvironmentVariableWinDir
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEventLogs
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEventLogApplication
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\AppEvent.evt
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\AppEvent.evt
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/AppEvent.evt
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEventLogSecurity
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\SecEvent.evt
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\SecEvent.evt
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/SecEvent.evt
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsEventLogSystem
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\SysEvent.evt
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\SysEvent.evt
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/SysEvent.evt
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsXMLEventLogApplication
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Application.evtx
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Application.evtx
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/Application.evtx
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsXMLEventLogSecurity
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Security.evtx
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Security.evtx
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/Security.evtx
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsXMLEventLogSystem
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\System.evtx
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\System.evtx
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/System.evtx
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsXMLEventLogTerminalServices
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExcludeFromKnownDLLs
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerAppKey
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerAutoplayHandlers
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerContextMenuHandlers
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerNamespaceCommonPlaces
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerNamespaceControlPanel
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerNamespaceDesktop
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerNamespaceMyComputer
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerNamespaceNetworkNeighborhood
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsExplorerNamespacePrintersAndFaxes
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsFileTypeAutorunAssociations
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsGroupPolicyScripts
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \GroupPolicy\User\Scripts\scripts.ini
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\GroupPolicy\User\Scripts\scripts.ini
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/GroupPolicy/User/Scripts/scripts.ini
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsHostsFiles
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\Drivers\etc\Lmhosts
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\Drivers\etc\Lmhosts
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/Drivers/etc/Lmhosts
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsHotkeyReplacement
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "environ_systemroot" Path: \System32\magnifier.exe
+2017-01-23 16:40:24-DEBUG-Expanded path: \Windows\System32\magnifier.exe
+2017-01-23 16:40:24-DEBUG-File not exist in current image !
+2017-01-23 16:40:24-INFO-Artifact not found: /home/osboxes/ArtifactCollector/tests/Windows/System32/magnifier.exe
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsInstallationDateTime
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsLogoffScript
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsLogonScript
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsLSAAuthenticationPackages
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsLSANotificationPackages
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsLSASecurityPackages
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-INFO-Artifact ignore is not a file
+2017-01-23 16:40:24-INFO-Artifact Name: WindowsMetroApplicationCache
+2017-01-23 16:40:24-DEBUG-Artifact OS: Windows
+2017-01-23 16:40:24-DEBUG-To expand: "users.homedir" Path: \AppData\Local\Packages\*\AC\INetCache
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsActiveDesktop
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAlternateShell
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAMCacheHveFile
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \AppCompat\Programs\Amcache.hve
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\AppCompat\Programs\Amcache.hve
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/AppCompat/Programs/Amcache.hve
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAppCertDLLs
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAppCompatCache
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAppInitDLLs
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsApplicationRegistration
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WinAppXRT
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \system32\WinAppXRT.dll
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\system32\WinAppXRT.dll
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data\Windows\system32\WinAppXRT.dll
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAutoexecBat
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemdrive" Path: \autoexec.bat
+2017-01-25 11:52:12-DEBUG-Expanded path: C:\autoexec.bat
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_dataC:/autoexec.bat
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAutomaticDebugging
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAutomaticDebuggingExclusionList
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAutorun
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemdrive" Path: \autorun.inf
+2017-01-25 11:52:12-DEBUG-Expanded path: C:\autorun.inf
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_dataC:/autorun.inf
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsAvailableTimeZones
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsBITSQueueManagerDatabases
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_allusersprofile" Path: \Microsoft\Network\Downloader\qmgr*.dat
+2017-01-25 11:52:12-DEBUG-Expanded path: \Users\Default\Microsoft\Network\Downloader\qmgr*.dat
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data\Users\Default\Microsoft\Network\Downloader\qmgr*.dat
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsBootVerificationProgram
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCodePage
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsComputerName
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCommandProcessorAutoRun
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCOMInprocHandlers
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCOMInprocServers
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCOMLocalServers
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsConfigSys
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemdrive" Path: \config.sys
+2017-01-25 11:52:12-DEBUG-Expanded path: C:\config.sys
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_dataC:/config.sys
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsControlPanelFilePaths
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCredentialProviderFilters
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCredentialProviders
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsCommonFilePlacementAttacks
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_programfiles" Path: \Internet Explorer\sxs.dll
+2017-01-25 11:52:12-DEBUG-Expanded path: \Program Files\Internet Explorer\sxs.dll
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Program Files/Internet Explorer/sxs.dll
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsDebugger
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsDomainName
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentUserLoginScripts
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableAllUsersAppData
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableAllUsersProfile
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableAppxProcess
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariablePath
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableProgramFiles
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableProgramFilesX86
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableSystemDrive
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableSystemRoot
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableTemp
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEnvironmentVariableWinDir
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEventLogs
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEventLogApplication
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\AppEvent.evt
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\AppEvent.evt
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/AppEvent.evt
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEventLogSecurity
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\SecEvent.evt
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\SecEvent.evt
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/SecEvent.evt
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsEventLogSystem
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\SysEvent.evt
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\SysEvent.evt
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/SysEvent.evt
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsXMLEventLogApplication
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Application.evtx
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Application.evtx
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/Application.evtx
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsXMLEventLogSecurity
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Security.evtx
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Security.evtx
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/Security.evtx
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsXMLEventLogSystem
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\System.evtx
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\System.evtx
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/System.evtx
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsXMLEventLogTerminalServices
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExcludeFromKnownDLLs
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerAppKey
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerAutoplayHandlers
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerContextMenuHandlers
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerNamespaceCommonPlaces
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerNamespaceControlPanel
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerNamespaceDesktop
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerNamespaceMyComputer
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerNamespaceNetworkNeighborhood
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsExplorerNamespacePrintersAndFaxes
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsFileTypeAutorunAssociations
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsGroupPolicyScripts
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \GroupPolicy\User\Scripts\scripts.ini
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\GroupPolicy\User\Scripts\scripts.ini
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/GroupPolicy/User/Scripts/scripts.ini
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsHostsFiles
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\Drivers\etc\Lmhosts
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\Drivers\etc\Lmhosts
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/Drivers/etc/Lmhosts
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsHotkeyReplacement
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "environ_systemroot" Path: \System32\magnifier.exe
+2017-01-25 11:52:12-DEBUG-Expanded path: \Windows\System32\magnifier.exe
+2017-01-25 11:52:12-DEBUG-File not exist in current image !
+2017-01-25 11:52:12-INFO-Artifact not found: /home/osboxes/ArtifactCollector/test_data/Windows/System32/magnifier.exe
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsInstallationDateTime
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsLogoffScript
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsLogonScript
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsLSAAuthenticationPackages
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsLSANotificationPackages
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsLSASecurityPackages
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-INFO-Artifact ignore is not a file
+2017-01-25 11:52:12-INFO-Artifact Name: WindowsMetroApplicationCache
+2017-01-25 11:52:12-DEBUG-Artifact OS: Windows
+2017-01-25 11:52:12-DEBUG-To expand: "users.homedir" Path: \AppData\Local\Packages\*\AC\INetCache
